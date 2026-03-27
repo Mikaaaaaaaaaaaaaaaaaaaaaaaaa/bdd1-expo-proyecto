@@ -1,4 +1,4 @@
-Proyecto Expo Proyecto de la materia Base de Datos 1.
+Proyecto expo proyecto de la materia Base de Datos 1.
 
 ## Contenido
 - Script SQL
